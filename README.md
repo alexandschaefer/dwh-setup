@@ -16,7 +16,7 @@ Install [Homebrew](http://brew.sh/). Then
 
 #### Ubuntu 
 
-    $ sudo apt install git dialog coreutils rsync watch graphviz igraph
+    $ sudo apt install git dialog coreutils rsync watch graphviz python-igraph
 
 
 ## Python 3.6
