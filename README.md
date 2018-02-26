@@ -65,10 +65,7 @@ Download and install Java SE Development Kit 8 from: http://www.oracle.com/techn
 
 #### Ubuntu
 
-    $ sudo add-apt-repository ppa:webupd8team/java
-    $ sudo apt update
-    $ sudo apt install oracle-java8-installer
-
+Download and install Java SE Development Kit 8 as described here: https://wiki.ubuntuusers.de/Java/Installation/Oracle_Java/Java_8/
 
 ## (Zed only )Php 5.6
 
